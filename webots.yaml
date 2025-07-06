@@ -1,6 +1,4 @@
-version: 1.0
-
-type: simulation
-
-worlds:
-  NoorG_UAV_Testing: worlds/NoorG_UAV_Testing.wbt
+version: "1.0"
+world: "worlds/NoorG_UAV_Testing.wbt"
+controller: "noorg_controller"
+controller_language: "cpp"
