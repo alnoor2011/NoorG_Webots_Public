@@ -1,0 +1,5 @@
+version: 1.0
+
+# هذا الملف يُخبر Webots Cloud ما هو ملف العالم الذي نريد تشغيله
+worlds:
+  NoorG_UAV_Testing: worlds/NoorG_UAV_Testing.wbt
