@@ -1,5 +1,5 @@
 type: project
 version: "1.0"
 world: "worlds/NoorG_UAV_Testing_v2.wbt"
-controller: "my_controller"
+controller: "NoorG_controller"
 controller_language: cpp
