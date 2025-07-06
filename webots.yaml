@@ -1,4 +1,5 @@
+type: project
 version: "1.0"
 world: "worlds/NoorG_UAV_Testing.wbt"
 controller: "noorg_controller"
-controller_language: "cpp"
+controller_language: cpp
